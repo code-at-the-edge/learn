@@ -1,5 +1,0 @@
----
-layout: feed
-outputs:
-- json
----
